@@ -1,0 +1,12 @@
+const authActions = {
+    USER_SIGNUP: 'USER_SIGNUP',
+    USER_LOGIN: 'USER_LOGIN',
+
+    GET_USERS: 'GET_USERS',
+    SET_USERS: 'SET_USERS',
+
+    SET_FILTER_VALUES: 'SET_FILTER_VALUES',
+    HANDLE_USER_FILTER: 'HANDLE_USER_FILTER',
+};
+
+export default authActions;
